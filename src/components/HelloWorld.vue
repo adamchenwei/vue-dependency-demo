@@ -3,6 +3,7 @@
     <h1>{{ msg }}</h1>
     <!-- <test-ab name="aaa"></test-ab> -->
     <bye-component name="aaa" />
+    <hello-component name="helllllo" />
     <!-- <p>
       For a guide and recipes on how to configure / customize this project,<br>
       check out the
@@ -36,11 +37,13 @@
 import AllThing from 'boilerplate-webpack-babel-sass-storybook-vuejs';
 console.log(AllThing);
 const ByeComponent = AllThing.ByeComponent;
+const HelloComponent = AllThing.HelloComponent;
 
 export default {
   name: 'HelloWorld',
   components: {
     ByeComponent,
+    HelloComponent,
   },
   props: {
     msg: String
