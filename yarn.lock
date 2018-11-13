@@ -1414,6 +1414,13 @@ body-parser@1.18.3:
     raw-body "2.3.3"
     type-is "~1.6.16"
 
+boilerplate-webpack-babel-sass-storybook-vuejs@adamchenwei/boilerplate-webpack-babel-sass-storybook-vuejs#release/0.0.3:
+  version "0.0.3"
+  resolved "https://codeload.github.com/adamchenwei/boilerplate-webpack-babel-sass-storybook-vuejs/tar.gz/4310e4f024280484ce665a1c2b502750083a358d"
+  dependencies:
+    vue "^2.5.17"
+    vue-router "^3.0.1"
+
 bonjour@^3.5.0:
   version "3.5.0"
   resolved "https://registry.yarnpkg.com/bonjour/-/bonjour-3.5.0.tgz#8e890a183d8ee9a2393b3844c691a42bcf7bc9f5"
@@ -7424,6 +7431,11 @@ vue-loader@^15.4.2:
     loader-utils "^1.1.0"
     vue-hot-reload-api "^2.3.0"
     vue-style-loader "^4.1.0"
+
+vue-router@^3.0.1:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/vue-router/-/vue-router-3.0.1.tgz#d9b05ad9c7420ba0f626d6500d693e60092cc1e9"
+  integrity sha512-vLLoY452L+JBpALMP5UHum9+7nzR9PeIBCghU9ZtJ1eWm6ieUI8Zb/DI3MYxH32bxkjzYV1LRjNv4qr8d+uX/w==
 
 vue-style-loader@^4.1.0:
   version "4.1.2"
