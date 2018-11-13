@@ -35,8 +35,10 @@
 
 <script>
 import AllThing from 'boilerplate-webpack-babel-sass-storybook-vuejs';
+import ByeComponent from 'boilerplate-webpack-babel-sass-storybook-vuejs/ByeComponent.js';
+
 console.log(AllThing);
-const ByeComponent = AllThing.ByeComponent;
+// const ByeComponent = AllThing.ByeComponent;
 const HelloComponent = AllThing.HelloComponent;
 
 export default {
