@@ -1414,9 +1414,9 @@ body-parser@1.18.3:
     raw-body "2.3.3"
     type-is "~1.6.16"
 
-boilerplate-webpack-babel-sass-storybook-vuejs@adamchenwei/boilerplate-webpack-babel-sass-storybook-vuejs#release/0.0.5:
-  version "0.0.3"
-  resolved "https://codeload.github.com/adamchenwei/boilerplate-webpack-babel-sass-storybook-vuejs/tar.gz/bc97fd8624b4ba3f9363c58327d4abd7f80cb940"
+boilerplate-webpack-babel-sass-storybook-vuejs@adamchenwei/boilerplate-webpack-babel-sass-storybook-vuejs#release/0.0.7:
+  version "0.0.7"
+  resolved "https://codeload.github.com/adamchenwei/boilerplate-webpack-babel-sass-storybook-vuejs/tar.gz/eb54429f4c80cf13a12daf7875abdf2fd8de5608"
   dependencies:
     vue "^2.5.17"
     vue-router "^3.0.1"
