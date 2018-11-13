@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "vue": "^2.5.17",
-    "boilerplate-webpack-babel-sass-storybook-vuejs": "adamchenwei/boilerplate-webpack-babel-sass-storybook-vuejs#release/0.0.3"
+    "boilerplate-webpack-babel-sass-storybook-vuejs": "adamchenwei/boilerplate-webpack-babel-sass-storybook-vuejs#release/0.0.5"
 
   },
   "devDependencies": {

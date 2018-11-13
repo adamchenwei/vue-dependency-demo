@@ -2,7 +2,7 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <!-- <test-ab name="aaa"></test-ab> -->
-    <mini-c name="aaa" />
+    <bye-component name="aaa" />
     <!-- <p>
       For a guide and recipes on how to configure / customize this project,<br>
       check out the
@@ -33,11 +33,14 @@
 </template>
 
 <script>
-import {MiniC} from 'boilerplate-webpack-babel-sass-storybook-vuejs';
+import AllThing from 'boilerplate-webpack-babel-sass-storybook-vuejs';
+console.log(AllThing);
+const ByeComponent = AllThing.ByeComponent;
+
 export default {
   name: 'HelloWorld',
   components: {
-    MiniC,
+    ByeComponent,
   },
   props: {
     msg: String
