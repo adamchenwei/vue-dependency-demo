@@ -1,5 +1,7 @@
 # vue-dependency-demo
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/adamchenwei/vue-dependency-demo.svg)](https://greenkeeper.io/)
+
 ## Project setup
 ```
 yarn install
